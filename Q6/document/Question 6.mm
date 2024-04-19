@@ -1,0 +1,54 @@
+<map version="1.0.1">
+<!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
+<node CREATED="1711897996161" ID="ID_1725300270" MODIFIED="1712334795702" TEXT="Question 6">
+<font NAME="SansSerif" SIZE="34"/>
+<node CREATED="1711898090207" ID="ID_1439090120" MODIFIED="1712334800764" POSITION="right" TEXT="Equations">
+<font NAME="SansSerif" SIZE="26"/>
+<node CREATED="1711898102729" ID="ID_833788442" MODIFIED="1712334806815" TEXT="Heads: x + y = 35">
+<font NAME="SansSerif" SIZE="33"/>
+</node>
+<node CREATED="1711898106495" ID="ID_21921881" MODIFIED="1712334811866" TEXT="Legs: 2x + 4y = 94">
+<font NAME="SansSerif" SIZE="29"/>
+</node>
+</node>
+<node CREATED="1711898263820" ID="ID_397956940" MODIFIED="1712334791408" POSITION="left" TEXT="Library">
+<font NAME="SansSerif" SIZE="32"/>
+<node CREATED="1711898270588" ID="ID_1151858212" MODIFIED="1712334725258" TEXT="sympy">
+<font NAME="SansSerif" SIZE="38"/>
+<node CREATED="1712341300533" ID="ID_1002578526" MODIFIED="1712341359731" TEXT="Eq">
+<font NAME="SansSerif" SIZE="34"/>
+</node>
+<node CREATED="1712341349367" ID="ID_1197810413" MODIFIED="1712341361768" TEXT="Solve">
+<font NAME="SansSerif" SIZE="33"/>
+</node>
+</node>
+<node CREATED="1712339113940" ID="ID_687377205" MODIFIED="1712339128113" TEXT="Scipy">
+<font NAME="SansSerif" SIZE="32"/>
+<node CREATED="1712339114698" ID="ID_1148562648" MODIFIED="1712339165096" TEXT="fsolve">
+<font NAME="SansSerif" SIZE="37"/>
+</node>
+</node>
+</node>
+<node CREATED="1712339720865" ID="ID_903010143" MODIFIED="1712339886176" POSITION="right" TEXT="Functions">
+<font NAME="SansSerif" SIZE="25"/>
+<node CREATED="1712339886176" ID="ID_489921468" MODIFIED="1712340024784" TEXT="For counting animals">
+<font NAME="SansSerif" SIZE="24"/>
+</node>
+</node>
+<node CREATED="1712341375285" ID="ID_176317849" MODIFIED="1712341382043" POSITION="left" TEXT="Variables">
+<font NAME="SansSerif" SIZE="26"/>
+<node CREATED="1712341382581" ID="ID_691164619" MODIFIED="1712341388167" TEXT="Heads">
+<font NAME="SansSerif" SIZE="26"/>
+</node>
+<node CREATED="1712341390601" ID="ID_1350974216" MODIFIED="1712341394645" TEXT="Legs">
+<font NAME="SansSerif" SIZE="25"/>
+</node>
+<node CREATED="1712341397428" ID="ID_1788292272" MODIFIED="1712341402908" TEXT="Chickens">
+<font NAME="SansSerif" SIZE="23"/>
+</node>
+<node CREATED="1712341405337" ID="ID_1611069130" MODIFIED="1712341410329" TEXT="Rabbits">
+<font NAME="SansSerif" SIZE="25"/>
+</node>
+</node>
+</node>
+</map>
